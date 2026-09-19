@@ -59,8 +59,7 @@ MARS/
 ├── images_thermal/    thermal images          (1280 × 1024 JPG)
 ├── labels/            YOLO-format annotations (class cx cy w h, normalised)
 ├── splits/            train.txt / val.txt / test.txt
-├── subsets/           dense_fog.txt / low_light.txt / glare.txt / normal.txt
-└── classes.txt        the seven category names
+└── subsets/           dense_fog.txt / low_light.txt / glare.txt 
 ```
 
 Annotations use the YOLO text format so that the dataset can be used without a converter:
