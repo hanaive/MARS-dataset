@@ -85,8 +85,3 @@ To be determined at release. Please open an issue if you need the terms before t
 
 The accompanying paper is under review. A BibTeX entry will be added here on publication.
 
-## Contact
-
-Yuxin Zheng — zhengyuxin@hrbeu.edu.cn
-National Key Laboratory of Autonomous Marine Vehicle Technology,
-Harbin Engineering University.
