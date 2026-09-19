@@ -1,6 +1,6 @@
 # MARS: Multispectral All-weather River & Sea dataset
 
-A multispectral (visible–thermal) object detection benchmark for **unmanned surface
+A multispectral (RGB–thermal) object detection benchmark for **unmanned surface
 vehicles (USVs)** and waterborne traffic, collected from a surface-level viewpoint under
 the low-visibility conditions that matter most for safe navigation: dense fog, low light,
 and intense water glare.
